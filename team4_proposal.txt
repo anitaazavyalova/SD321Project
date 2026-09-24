@@ -14,3 +14,14 @@ financial aspects
 student outcomes/graduate salaries
 
 4. https://www.kaggle.com/datasets/harshitsama/us-college-tuition-debt-and-graduate-salaries?resource=download
+
+5. How does the cost of attending a college relate to graduates’ long-term earnings?
+How does student debt at graduation relate to graduates’ long-term earnings?
+How does an institution’s completion rate relate to graduates’ debt and long-term earnings?
+How do public, private nonprofit, and private for-profit institutions differ in cost, debt, completion rates, and long-term earnings?
+How are student socioeconomic characteristics, such as family income, Pell Grant participation, and first-generation status, associated with institutional costs, completion rates, debt, and long-term earnings?
+
+6. To what extent does the financial return of a college education vary based on the type of institution students attend and their socioeconomic background?
+
+We will split the big question into the smaller questions that can be answered with the provided data, having each member of the group work on 1-2 of the questions.
+This will help us determine the big question together, using the knowledge we gather from the smaller questions.
