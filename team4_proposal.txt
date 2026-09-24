@@ -1,1 +1,15 @@
-1. yo mamam
+1. Let Him Cook
+
+2. Anita
+
+3. Mapping the Value of Higher Education
+
+Our dataset details higher education by characteristics, covering topics like 
+
+institution descriptions
+locations
+admissions information
+demographics
+financial aspects
+student outcomes/graduate salaries
+
