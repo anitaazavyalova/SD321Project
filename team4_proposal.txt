@@ -23,5 +23,5 @@ How are student socioeconomic characteristics, such as family income, Pell Grant
 
 6. To what extent does the financial return of a college education vary based on the type of institution students attend and their socioeconomic background?
 
-We will split the big question into the smaller questions that can be answered with the provided data, having each member of the group work on 1-2 of the questions.
-This will help us determine the big question together, using the knowledge we gather from the smaller questions.
+We will split the general question we have into multiple smaller questions that can be answered more easier with the data that we split into various tables and groupings. Each member of the group plans to answer
+1-2 questions and from there we will gather those conclusions from the smaller questions and use them to answer our big question.
