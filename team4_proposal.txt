@@ -25,3 +25,5 @@ How are student socioeconomic characteristics, such as family income, Pell Grant
 
 We will split the general question we have into multiple smaller questions that can be answered more easier with the data that we split into various tables and groupings. Each member of the group plans to answer
 1-2 questions and from there we will gather those conclusions from the smaller questions and use them to answer our big question.
+
+There are no majors dataset that we are able to use, therefore we are using the assumption of median values in the current dataset that we have currentlt for this colleges REGARDLESS of their major. Meaning that in potential future research if pursued, we would want to incorporate majors into our analysis.
