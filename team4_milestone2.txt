@@ -1,0 +1,32 @@
+'''
+lab09
+m281134, c. l. chau
+m287116, a. a. zavyalova
+m282418, o. k. green
+'''
+
+relational model:
+
+institutions(unitid PK, institution, state, control, level)
+college_outcomes(unitid PK/FK -> institutions.unitid, costt4_a, c150_4, c150_l4, first_gen, faminc, grad_debt_mdn, md_earn_wne_p10)
+college_aid(unitid PK/FK -> institutions.unitid, pgrnt_p, pgrnt_a, loan_p, loan_a)
+
+
+functional dependencies:
+
+institutions:
+unitid -> institution, state, control, level
+
+college_outcomes:
+unitid -> costt4_a, c150_4, c150_l4, first_gen, faminc, grad_debt_mdn, md_earn_wne_p10
+
+college_aid:
+unitid -> pgrnt_p, pgrnt_a, loan_p, loan_a
+
+
+bcnf:
+yes, all three tables are in bcnf because unitid is the primary key and determines all other attributes.
+
+
+decomposition:
+no decomposition needed b/c all three tables are already in bcnf
